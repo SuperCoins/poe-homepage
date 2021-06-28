@@ -4,6 +4,7 @@
     "vue": "^2.6.12"
   },
   "devDependencies": {
+    "@babel/core": "^7.14.6",
     "@parcel/transformer-sass": "2.0.0-beta.2",
     "copyfiles": "^2.4.1",
     "cssnano": "^4.1.10",
